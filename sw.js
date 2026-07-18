@@ -1,4 +1,4 @@
-const CACHE = 'apothecary-v4';
+const CACHE = 'apothecary-v19';
 const ASSETS = [
   './',
   './index.html',
